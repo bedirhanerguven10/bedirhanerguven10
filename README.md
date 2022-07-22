@@ -41,8 +41,8 @@
 <br/>
 ## 📈 Statistics
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=BedirhanV&theme=chartreuse-dark&show_icons=true" alt="my github stats" width="49%"/>&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BedirhanV&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="49%" /> </p>
+<img src="https://github-readme-stats.vercel.app/api?username=bedirhanerguven10&theme=chartreuse-dark&show_icons=true" alt="my github stats" width="49%"/>&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bedirhanerguven10&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="49%" /> </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bedirhanerguven10&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
 <br/>
 <br/>
