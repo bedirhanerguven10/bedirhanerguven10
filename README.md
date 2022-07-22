@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Bedirhan</h1>
-<h3 align="center">I'm a passionate Full Stack Developer from Turkey.</h3><br>
+<h3 align="center">I'm a passionate Frontend Developer from Turkey.</h3><br>
 
 
 ## 🙋‍♂️ About Me
@@ -37,6 +37,13 @@
 
 
 
+<br/>
+<br/>
+## 📈 Statistics
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=BedirhanV&theme=algolia&show_icons=true" alt="my github stats" width="49%"/>&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=BedirhanV&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="49%" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bedirhanerguven10&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
 <br/>
 <br/>
 
